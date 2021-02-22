@@ -1,6 +1,6 @@
-# USD443-Intranet
+<h1><img width="40" src="./public/favicon.png" alt="usd443 intranet logo" />USD443 Intranet</h1>
 
-Internal application used by Unified School District 443 (USD443)
+Internal link management application used by Unified School District 443 (USD443)
 
 ## Objective
 
