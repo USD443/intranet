@@ -109,7 +109,7 @@
         <p>Coded & Maintained By: <span>Carlos Rodriguez</span></p>
         <a href="mailto:rodriguez.carlos@usd443.org?subject=USD443 Intranet">rodriguez.carlos@usd443.org</a>
         <br />
-        <p class="pageviews">{pageViews} views</p>
+        <p class="pageviews" style={pageViews != "" ? "" : "visibility: hidden"}>{pageViews} views</p>
       </div>
     </div>
   </aside>
